@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/errordedected" target="blank"><img src="https://img.shields.io/twitter/follow/errordedected?logo=twitter&style=for-the-badge" alt="errordedected" /></a> </p>
 
-<img align="right" alt="Coding" width="400" height="300" src="https://blogger.googleusercontent.com/img/a/AVvXsEgh9adZdfU4H7QMzw7qRWt_cR_xS_Cayq4MXZhpWGLf_xseGi4X5iRxbrsm0Jp5lpwhxTajumE0Ahht9YexXQMZRjuZJQUbCQ9Q1sP8vSju8qZ6WEQGorl67dq5cFNxSsxQh0GLCtX4M8Ow7D9s7VnkPjt1haSGegFkZgvfONFGlD_OfpuD4mlE2tIZ=s320">
+<img align="right" alt="Coding" width="350" height="300" src="https://blogger.googleusercontent.com/img/a/AVvXsEgh9adZdfU4H7QMzw7qRWt_cR_xS_Cayq4MXZhpWGLf_xseGi4X5iRxbrsm0Jp5lpwhxTajumE0Ahht9YexXQMZRjuZJQUbCQ9Q1sP8vSju8qZ6WEQGorl67dq5cFNxSsxQh0GLCtX4M8Ow7D9s7VnkPjt1haSGegFkZgvfONFGlD_OfpuD4mlE2tIZ=s320">
 
 
 - 🔭 I’m currently working on **Machine Learning**
