@@ -1,4 +1,4 @@
-![MasterHead](https://media.istockphoto.com/photos/digital-cyberspace-with-particles-and-digital-data-network-high-picture-id1302189748?b=1&k=20&m=1302189748&s=170667a&w=0&h=s0o2dhTh40lrWLPt6rg54S0jCUywkr6h04rDdfStMq8=)
+![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGWIL4ziD2ZsA/profile-displaybackgroundimage-shrink_200_800/0/1636780584322?e=1659571200&v=beta&t=i5wZ80kK2m7e4zWXitA_hWZxaYYCm7LMZo4Tn6Yjs-E)
 
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
 <h3 align="center">A passionate Tech enthusiast</h3>
