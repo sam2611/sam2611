@@ -1,4 +1,4 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGWIL4ziD2ZsA/profile-displaybackgroundimage-shrink_200_800/0/1636780584322?e=1659571200&v=beta&t=i5wZ80kK2m7e4zWXitA_hWZxaYYCm7LMZo4Tn6Yjs-E)
+![MasterHead](https://camo.githubusercontent.com/43e8ff9f35530badfde926f381376217d1537bef7f46755315fbc5245b38cd0b/68747470733a2f2f6d656469612d657870312e6c6963646e2e636f6d2f646d732f696d6167652f433445313641514757494c347a6944325a73412f70726f66696c652d646973706c61796261636b67726f756e64696d6167652d736872696e6b5f3335305f313430302f302f313633363738303538343332323f653d3136373034353736303026763d6265746126743d514f704e5f46667031615f534a756b686c4434355468534546346d32714b303675686b47786f6e5972576b)
 
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
 <h3 align="center">A passionate Tech enthusiast</h3>
@@ -38,5 +38,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam2611&show_icons=true&locale=en&layout=compact" alt="sam2611" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sam2611&show_icons=true&locale=en" alt="sam2611" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sam2611&" alt="sam2611" /></p>
+<br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sam2611&" alt="sam2611" /></p>
