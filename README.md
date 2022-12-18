@@ -1,9 +1,10 @@
-![MasterHead](https://camo.githubusercontent.com/43e8ff9f35530badfde926f381376217d1537bef7f46755315fbc5245b38cd0b/68747470733a2f2f6d656469612d657870312e6c6963646e2e636f6d2f646d732f696d6167652f433445313641514757494c347a6944325a73412f70726f66696c652d646973706c61796261636b67726f756e64696d6167652d736872696e6b5f3335305f313430302f302f313633363738303538343332323f653d3136373034353736303026763d6265746126743d514f704e5f46667031615f534a756b686c4434355468534546346d32714b303675686b47786f6e5972576b)
+
+<p align="left"> <img src="https://media.licdn.com/dms/image/C4E16AQGWIL4ziD2ZsA/profile-displaybackgroundimage-shrink_350_1400/0/1636780584322?e=1677110400&v=beta&t=5Fs7WHUyuUs1VrdWNL54aZSDf9sipQyst5prkx894c8" alt="sam2611" /> </p>
 
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
 <h3 align="center">A passionate Tech enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sam2611&label=Profile%20views&color=0e75b6&style=flat" alt="sam2611" /> </p>
+
 
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=sam2611" alt="sam2611" /></a> </p>
