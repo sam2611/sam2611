@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://media.licdn.com/dms/image/C4E16AQGWIL4ziD2ZsA/profile-displaybackgroundimage-shrink_350_1400/0/1636780584322?e=1677110400&v=beta&t=5Fs7WHUyuUs1VrdWNL54aZSDf9sipQyst5prkx894c8" alt="sam2611" /> </p>
+<p align="left"> <img src="https://github.com/sam2611/sam2611/blob/main/download.jpg" alt="sam2611" height=200 width=1400 /> </p>
 
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
 <h3 align="center">A passionate Tech enthusiast</h3>
